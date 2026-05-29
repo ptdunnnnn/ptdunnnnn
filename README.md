@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dung Phan 👋
 
-<!--
-**ptdunnnnn/ptdunnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- HRIS Specialist
+- Based in Da Nang, Vietnam
+- Interested in HR Technology, Data Analytics, AI, and Automation
 
-Here are some ideas to get you started:
+## Skills
+- HRIS
+- Power BI
+- Excel
+- SQL
+- Recruitment Analytics
+- AI for HR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/ptdung2412/
